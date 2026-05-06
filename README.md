@@ -45,8 +45,7 @@ Prevents level from decreasing.
 ### 9. Percent Clamp
 Keeps values between 0 and 100.
 
-### 10. Fixed-Length Username
-Ensures username is exactly 10 characters long.
+
 
 ---
 
